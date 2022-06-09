@@ -6,7 +6,7 @@ build-backend = "flit.buildapi"
 module = "mysql_autoxtrabackup"
 author = "Shahriyar(Shako) Rzayev"
 author-email = "rzayev.sehriyar@gmail.com"
-home-page = "https://github.com/ShahriyarR/MySQL-AutoXtraBackup"
+home-page = "https://github.com/Amixp/MySQL-AutoXtraBackup"
 classifiers = [
     "Intended Audience :: Information Technology",
     "Intended Audience :: System Administrators",

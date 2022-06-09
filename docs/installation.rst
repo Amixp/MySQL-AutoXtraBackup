@@ -23,7 +23,7 @@ Installing from source for development purposes:
 
 ::
 
-    git clone https://github.com/ShahriyarR/MySQL-AutoXtraBackup.git
+    git clone https://github.com/Amixp/MySQL-AutoXtraBackup.git
     cd  to MySQL-AutoXtraBackup
     flit install --symlink
 

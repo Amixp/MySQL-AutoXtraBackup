@@ -18,7 +18,7 @@ RUN cd /opt && \
     ./install.sh /usr/local
 ARG GIT_BRANCH_NAME
 RUN cd /opt && \
-    git clone -b $GIT_BRANCH_NAME https://github.com/ShahriyarR/MySQL-AutoXtraBackup.git && \
+    git clone -b $GIT_BRANCH_NAME https://github.com/Amixp/MySQL-AutoXtraBackup.git && \
     cd /opt/MySQL-AutoXtraBackup && \
     python3 setup.py install
 
